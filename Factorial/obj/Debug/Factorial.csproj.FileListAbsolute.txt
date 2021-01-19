@@ -1,0 +1,6 @@
+C:\Users\borim\source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\Factorial\bin\Debug\Factorial.dll
+C:\Users\borim\source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\Factorial\bin\Debug\Factorial.pdb
+C:\Users\borim\source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\borim\source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\Factorial\obj\Debug\Factorial.dll
+C:\Users\borim\source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\Factorial\obj\Debug\Factorial.pdb

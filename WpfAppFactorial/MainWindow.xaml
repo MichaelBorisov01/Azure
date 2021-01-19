@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfAppFactorial.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppFactorial"
+        mc:Ignorable="d"
+        Title="Factorial" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="TextBlockNumber" HorizontalAlignment="Left" Height="23"
+Margin="61,32,0,0" TextWrapping="Wrap" Text="Факториал числа:"
+VerticalAlignment="Top" Width="100" />
+         
+        <Button x:Name="ButtonCalculate" Content="Вычислить"
+HorizontalAlignment="Left" Margin="61,129,0,0"
+VerticalAlignment="Top" Width="75" Click="ButtonCalculate_Click" />
+        <TextBox x:Name="TextBoxNumber" HorizontalAlignment="Left" Margin="200,32,0,0"
+TextWrapping="Wrap" VerticalAlignment="Top" Width="107" TextChanged="TextBoxNumber1_TextChanged" />
+         
+        <TextBox x:Name="TextBoxResult" HorizontalAlignment="Left" Height="23"
+Margin="200,128,0,0" TextWrapping="Wrap"
+VerticalAlignment="Top" Width="107"/>
+    </Grid>
+</Window>
