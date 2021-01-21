@@ -34,4 +34,22 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8D34DF94-BC92-4F99-886D-F5D599D37373}
 	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/borimix
+		SccProjectUniqueName0 = FactorialTests\\FactorialTests.csproj
+		SccProjectName0 = FactorialTests
+		SccLocalPath0 = FactorialTests
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = Factorial\\Factorial.csproj
+		SccProjectName2 = Factorial
+		SccLocalPath2 = Factorial
+		SccProjectUniqueName3 = WpfAppFactorial\\WpfAppFactorial.csproj
+		SccProjectName3 = WpfAppFactorial
+		SccLocalPath3 = WpfAppFactorial
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D34DF94-BC92-4F99-886D-F5D599D37373}
+	EndGlobalSection
 EndGlobal
