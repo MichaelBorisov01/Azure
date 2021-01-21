@@ -14,6 +14,10 @@
     <WarningLevel>4</WarningLevel>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -95,6 +99,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FactorialTests\FactorialTests.csproj">
+      <Project>{5f889738-1d98-42a4-a173-90947a967da0}</Project>
+      <Name>FactorialTests</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Factorial\Factorial.csproj">
       <Project>{ac541adc-db4e-48bd-b691-4ea56161d97f}</Project>
       <Name>Factorial</Name>

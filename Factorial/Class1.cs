@@ -9,7 +9,7 @@ namespace FactorialCalculating
     public static class Factorial
     {
         /// <summary>
-        /// Метод вычисления факториала
+        /// Метод вычисления факториала 2.0
         /// </summary>
         /// <param name="a"></param>
         /// <param name="b"></param>

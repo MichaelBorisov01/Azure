@@ -16,3 +16,13 @@ C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactor
 C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\obj\Debug\WpfAppFactorial.csproj.CopyComplete
 C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\obj\Debug\WpfAppFactorial.exe
 C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\obj\Debug\WpfAppFactorial.pdb
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\FactorialTests.dll
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\FactorialTests.pdb
+C:\Users\borim\Source\Workspaces\СalculatingFactorialProject\СalculatingFactorialSolution\WpfAppFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
