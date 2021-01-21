@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppFactorial", "WpfAppFactorial\WpfAppFactorial.csproj", "{B35B383D-4880-4E38-8E88-438705367CB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialTests", "FactorialTests\FactorialTests.csproj", "{5F889738-1D98-42A4-A173-90947A967DA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B35B383D-4880-4E38-8E88-438705367CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B35B383D-4880-4E38-8E88-438705367CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B35B383D-4880-4E38-8E88-438705367CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F889738-1D98-42A4-A173-90947A967DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F889738-1D98-42A4-A173-90947A967DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F889738-1D98-42A4-A173-90947A967DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F889738-1D98-42A4-A173-90947A967DA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
